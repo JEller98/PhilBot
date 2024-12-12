@@ -107,7 +107,7 @@ while True:
     history.append({"role": "assistant", 
                     "content": "response"})
 
-    print(colored("Philbot:", "light_green"), response)
+    print(colored("PhilBot:", "light_green"), response)
 
 '''
 TODO:
