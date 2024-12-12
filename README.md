@@ -7,7 +7,8 @@ Overview:
 A chatbot that communicates with a user via calls to an LLM through Groq Cloud's API and which uses a customized Chroma vector database better inform its responses about anything and everything written by ancient Greek philosopher Plato. This project was created as a result of my desire to learn more about the field of Philosophy, sparked by my experience with Philosophy 101 during the Summer 2024 quarter.
 
 Setup:
-1. Create a file in the root directory called ".env" and place your Groq Cloud API Key in there. Environment variable should be called "API_KEY"
+1. Create a file in the root directory called ".env" and place your Groq Cloud API Key in there. Environment variable should be called "API_KEY".
+![A screenshot of an IDE demonstrating how the user's API key should be set up.](example-1.png)
 2. Run "pip install -r requirements.txt" in your terminal of choice
 3. Click the "run" button in your IDE of choice while the window is focused on the file "script.py"
 
