@@ -11,6 +11,7 @@ Setup:
 ![A screenshot of an IDE demonstrating how the user's API key should be set up.](example-1.png)
 2. Run "pip install -r requirements.txt" in your terminal of choice
 3. Click the "run" button in your IDE of choice while the window is focused on the file "script.py"
+4. Philbot takes a while to load, so be patient. Make sure you have a terminal or console open; this is how you interface with the chatbot.
 
 To exit:
 Type "exit" or "bye" and Philbot will exit.
