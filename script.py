@@ -77,7 +77,7 @@ chat_model = "llama-3.1-8b-instant"
 chat_tokens = 1000
 
 #print out the greeting
-print(colored("Philbot:", "light_green"), greeting.get("content"))
+print(colored("PhilBot:", "light_green"), greeting.get("content"))
 
 #actual chatting
 while True:
@@ -88,7 +88,7 @@ while True:
 
     #adding in an exit function
     if user_msg == "exit" or user_msg == "bye":
-        print(colored("Philbot:", "light_green"), "Have a nice day!")
+        print(colored("PhilBot:", "light_green"), "Have a nice day!")
         break
 
     history.append({
