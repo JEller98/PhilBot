@@ -111,8 +111,6 @@ while True:
 
 '''
 TODO:
--Set up RAG
--Split code into separate functions
 -Webpage? Or maybe turn this into a proper application?
 -Persona functionality if there's time...
 -Could try to get this hosted on Microsoft Azure if I really wanna go above and beyond
